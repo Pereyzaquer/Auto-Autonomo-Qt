@@ -5,3 +5,12 @@ Release/
 *.su
 *.axf
 *.map
+
+# Qt
+debug/
+release/
+Makefile*
+*.pro.user*
+ui_*.h
+moc_*
+.qmake.stash
